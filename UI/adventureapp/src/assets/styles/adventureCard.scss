@@ -1,0 +1,14 @@
+.card {
+  width: 200px;
+  height: 550px;
+  background-color: #dc6b19;
+  color: #6c0345;
+  border-radius: 80px;
+  position: relative;
+  img {
+    height: 225px;
+    object-fit: cover;
+    width: 200px;
+    border-radius: 80px 80px 0 0;
+  }
+}

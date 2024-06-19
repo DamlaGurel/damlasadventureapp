@@ -1,0 +1,21 @@
+.edit-card {
+  width: 200px;
+  height: 550px;
+  background-color: #dc6b19;
+  color: #6c0345;
+  display: flex;
+  position: relative;
+  align-items: center;
+
+  img {
+    height: 225px;
+    object-fit: cover;
+    width: 200px;
+  }
+  button {
+    background-color: #6c0345;
+    color: #fff8dc;
+    border-radius: 5px;
+    padding: 10px;
+  }
+}
