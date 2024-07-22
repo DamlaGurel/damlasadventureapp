@@ -1,4 +1,4 @@
-.nav-bar {
+nav {
   background-color: #f7c566;
   color: #6c0345;
   div {
@@ -6,5 +6,10 @@
     align-items: center;
     justify-content: space-between;
     padding: 10px 20px;
+  }
+  ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
   }
 }
